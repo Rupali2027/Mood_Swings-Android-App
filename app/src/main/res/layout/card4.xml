@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00B81F1F"
+    android:orientation="vertical">
+
+    <WebView
+        android:id="@+id/webVedioView"
+        android:layout_width="match_parent"
+        android:layout_height="342dp"
+        android:background="#00C51414" />
+
+</androidx.cardview.widget.CardView>
