@@ -24,20 +24,18 @@ Check out this link to view the working of my app
 ![image](https://user-images.githubusercontent.com/66245321/115342674-3f273f80-a1c8-11eb-89a2-0f49dad4e666.png)
 ![image](https://user-images.githubusercontent.com/66245321/115342691-44848a00-a1c8-11eb-8eec-1119480a07e3.png)
 
-
-####Then went for Horrible mood
+#### Then went for Horrible mood
 ![image](https://user-images.githubusercontent.com/66245321/115342717-4fd7b580-a1c8-11eb-8fe2-1fe28d045367.png)
 
-
-####The went for suggested movies
+#### The went for suggested movies
 ![image](https://user-images.githubusercontent.com/66245321/115342742-5a924a80-a1c8-11eb-8c28-43a013534756.png)
 ![image](https://user-images.githubusercontent.com/66245321/115342757-5f56fe80-a1c8-11eb-8062-870c7684238e.png)
 ![image](https://user-images.githubusercontent.com/66245321/115342767-64b44900-a1c8-11eb-96ac-bc71e1d034cf.png)
 
-####Chose the Depressed option this time
+#### Chose the Depressed option this time
 ![image](https://user-images.githubusercontent.com/66245321/115342786-6d0c8400-a1c8-11eb-9266-4d75df86b4f4.png)
 
-####Then went for the Inspiring Thoughts option
+#### Then went for the Inspiring Thoughts option
 ![image](https://user-images.githubusercontent.com/66245321/115342810-7695ec00-a1c8-11eb-8ab1-606fda45ea3b.png)
 ![image](https://user-images.githubusercontent.com/66245321/115342822-7c8bcd00-a1c8-11eb-8ed1-1baddfdd4f9d.png)
 ![image](https://user-images.githubusercontent.com/66245321/115342837-81508100-a1c8-11eb-9614-6710b32a9d38.png)
