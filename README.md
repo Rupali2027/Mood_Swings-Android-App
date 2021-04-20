@@ -4,3 +4,8 @@ This app is built for the purpose of changing the ever fluctuating moods of huma
 ## Built using Android Studio
 Check out this link to view the working of my app 
 ### https://drive.google.com/file/d/17wLzTx0odTogr4HP7EtXXrEg2LOnyGOf/view?usp=sharing
+
+#### The Protype's images are as follows
+/home/rupali/moody/Screenshot_20210420-102436~2.png
+
+
