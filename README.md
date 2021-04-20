@@ -20,7 +20,7 @@ Check out this link to view the working of my app
 #### Then clicked on suggested videos
 ![image](https://user-images.githubusercontent.com/66245321/115342642-359dd780-a1c8-11eb-9fe3-81358edfea6f.png)
 
-####Then clicked on suggested songs
+#### Then clicked on suggested songs
 ![image](https://user-images.githubusercontent.com/66245321/115342674-3f273f80-a1c8-11eb-89a2-0f49dad4e666.png)
 ![image](https://user-images.githubusercontent.com/66245321/115342691-44848a00-a1c8-11eb-8eec-1119480a07e3.png)
 
